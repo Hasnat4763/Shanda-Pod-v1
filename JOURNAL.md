@@ -19,3 +19,17 @@ Put an OLED display and SD card reader to it too.
 Not sure about them tho still a lot to do
 
 **Total time spent: 3hr**
+
+# June 8th: Edited the schematic a bit
+
+I never used a microSD card with any microcontroller before so I was confused as how to wire the pins to my ESP32. I finally figured it out and wired them up. I also added 4 male jumper pins so that I can easily use a USB to 
+
+TTL converter or my arduino nano to flash new codes on the ESP32.
+
+![image](https://github.com/user-attachments/assets/cd13bfbf-7cc8-4739-8f66-eedcd2a3b625)
+
+![image](https://github.com/user-attachments/assets/24d499ca-47c9-4a3c-9f9a-ebc3c1d17adb)
+
+PCB looks like this now
+
+**Total time spent: 1hr**
