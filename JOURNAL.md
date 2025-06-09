@@ -33,3 +33,10 @@ TTL converter or my arduino nano to flash new codes on the ESP32.
 PCB looks like this now
 
 **Total time spent: 1hr**
+
+# June 9th: Added voltage converter
+
+The ESP32 runs on 3.3v but most of the batteries we find like the 18650 li-ion batteries all have a voltage range of 3.7-4.2 which is not safe for the ESP32 so I desided to include a AMS1117 LDO to limit the voltage to 3.3v. I also put a JST connector to connect the battery to the PCB.
+
+
+**Total time spent: 2hr**
