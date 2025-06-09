@@ -38,5 +38,10 @@ PCB looks like this now
 
 The ESP32 runs on 3.3v but most of the batteries we find like the 18650 li-ion batteries all have a voltage range of 3.7-4.2 which is not safe for the ESP32 so I desided to include a AMS1117 LDO to limit the voltage to 3.3v. I also put a JST connector to connect the battery to the PCB.
 
+![image](https://github.com/user-attachments/assets/0c7aa5be-d46d-44a0-9bc9-d6c738963d87)
+
+![image](https://github.com/user-attachments/assets/e54d9762-37b6-44fa-a259-5c51953ae877)
+
+
 
 **Total time spent: 2hr**
