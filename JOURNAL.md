@@ -45,3 +45,16 @@ The ESP32 runs on 3.3v but most of the batteries we find like the 18650 li-ion b
 
 
 **Total time spent: 2hr**
+
+# June 11th: Added extra switch and tidied up the schematic
+
+Thought I need some more switches for the MP3 player. So added 2 more switches.
+
+Gonna start working on the case now.
+
+![image](https://github.com/user-attachments/assets/ec01024b-a128-4b2e-9bcb-7378826a94ab)
+
+![image](https://github.com/user-attachments/assets/7615391b-5108-41eb-8551-717a2cbab5ba)
+
+
+**Total time spent: 0.5hr**
