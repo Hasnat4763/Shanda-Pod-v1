@@ -58,3 +58,16 @@ Gonna start working on the case now.
 
 
 **Total time spent: 0.5hr**
+
+# June 13th: Changed switch model and added voltage reading
+
+I want to also see how much charge is left on the battery, so I added 2 resistors to step down the voltage which esp32 can read safely
+Also Changed the switch models
+
+![image](https://github.com/user-attachments/assets/1a5af187-fc32-41d4-8b3c-3d2679889c6c)
+
+![image](https://github.com/user-attachments/assets/0d80c366-f133-4d58-9748-ae4329584c7a)
+
+![image](https://github.com/user-attachments/assets/150b6c2c-f3c7-46f6-a84d-d3699be2efe2)
+
+**Total time spent: 0.5hr**
