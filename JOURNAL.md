@@ -72,5 +72,13 @@ Also Changed the switch models
 
 **Total time spent: 0.5hr**
 
-# June 18th: Finalized the case
-![image](https://github.com/user-attachments/assets/89b85b4c-ffd6-4bb5-b5dd-2446c8ea6242)
+# June 18th: Finalizing the case
+
+Got some free time today to become Good in CAD. I still have to figure out where to put the battery tho
+
+
+![image](https://github.com/user-attachments/assets/bab1032f-9b95-48d0-95b3-4d0938c608a8)
+
+![image](https://github.com/user-attachments/assets/1f5eee1c-834c-4983-80bc-d4a3dbb6aeb1)
+
+**Total time spent: 1.5hr**
