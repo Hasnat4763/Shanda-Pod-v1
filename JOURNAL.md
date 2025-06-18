@@ -71,3 +71,6 @@ Also Changed the switch models
 ![image](https://github.com/user-attachments/assets/150b6c2c-f3c7-46f6-a84d-d3699be2efe2)
 
 **Total time spent: 0.5hr**
+
+# June 18th: Finalized the case
+![image](https://github.com/user-attachments/assets/89b85b4c-ffd6-4bb5-b5dd-2446c8ea6242)
