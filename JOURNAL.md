@@ -82,3 +82,17 @@ Got some free time today to become Good in CAD. I still have to figure out where
 ![image](https://github.com/user-attachments/assets/1f5eee1c-834c-4983-80bc-d4a3dbb6aeb1)
 
 **Total time spent: 1.5hr**
+
+# June 20th: Big Changes
+
+I have decided to also include a GY-PCM5102 module for audio output so I have to change many things. I have also changed the case design to be more compact
+Placed the Charging and Audio out Module till now
+Have to put the power button now
+
+Also Changed the PCB
+
+![image](https://github.com/user-attachments/assets/97d65011-3ab6-4ad2-8eca-24f54b3b9ede)
+
+![image](https://github.com/user-attachments/assets/d084103f-a795-4bdd-8a69-751a834ad34f)
+
+**Total time spent: 2hr**
