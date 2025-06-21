@@ -99,8 +99,13 @@ Also Changed the PCB
 
 # June 21th: Big Changes
 
-Changed the Battery Charging module
+Changed the Battery Charging module for an adafruit bq25185 charging module as it has both charging and 3v3 output. Removed AMS1117 and battery percentage function from the PCB
+Made space for the new module in Case.
 
-![image](https://github.com/user-attachments/assets/d90fdd87-28f0-4d61-9158-8e0e0b4c3c8f)
+![image](https://github.com/user-attachments/assets/333cc4db-6f96-4f3d-a1c4-27631f4bc33d)
+
+
+![image](https://github.com/user-attachments/assets/a497c4ac-cc71-41de-b62d-fd396706ebd5)
+
 
 **Total time spent: 2.5hr**
