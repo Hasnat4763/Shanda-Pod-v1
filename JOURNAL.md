@@ -96,3 +96,11 @@ Also Changed the PCB
 ![image](https://github.com/user-attachments/assets/d084103f-a795-4bdd-8a69-751a834ad34f)
 
 **Total time spent: 2hr**
+
+# June 21th: Big Changes
+
+Changed the Battery Charging module
+
+![image](https://github.com/user-attachments/assets/d90fdd87-28f0-4d61-9158-8e0e0b4c3c8f)
+
+**Total time spent: 2.5hr**
