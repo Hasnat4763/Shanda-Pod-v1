@@ -109,3 +109,15 @@ Made space for the new module in Case.
 
 
 **Total time spent: 2.5hr**
+
+# June 23th: WHY AM I DOING THIS?
+
+I have exams tomorrow and yet I am making the case
+I completed the case (Looks Like I am gonna change it again ngl) and made an exploding animation of it!
+
+
+https://github.com/user-attachments/assets/a201ade8-0bba-4978-ab63-54ee87a1c3f5
+
+
+
+**Total time spent: 1.5hr**
