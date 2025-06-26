@@ -121,3 +121,16 @@ https://github.com/user-attachments/assets/a201ade8-0bba-4978-ab63-54ee87a1c3f5
 
 
 **Total time spent: 1.5hr**
+
+
+# June 26th: Adding CH340C
+
+Thought of including an CH340C USB to UART converter to upload codes easily and also my battery charger also exposes D+ D- so it is easier than ever
+
+![image](https://github.com/user-attachments/assets/795e6eb2-542d-4ddd-990b-b4a73152d1e6)
+
+![image](https://github.com/user-attachments/assets/fdba0144-e3b1-47b2-8ec3-421d91a2ef2d)
+
+![image](https://github.com/user-attachments/assets/603a0cbd-9cf6-4a9a-baea-6a7ca5a6264a)
+
+**Total time spent: 2hr**
