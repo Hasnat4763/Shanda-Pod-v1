@@ -134,3 +134,13 @@ Thought of including an CH340C USB to UART converter to upload codes easily and 
 ![image](https://github.com/user-attachments/assets/603a0cbd-9cf6-4a9a-baea-6a7ca5a6264a)
 
 **Total time spent: 2hr**
+
+# June 27th: Completely changing the case design and choosing battery
+
+I had completely redone the case and selected 2 18650 batteries to power it and added a rocker switch to turn on/off
+
+(Hope everything fits)
+
+![image](https://github.com/user-attachments/assets/fd200813-b221-4cf4-8f10-7feffa920d9f)
+
+**Total time spent: 3hr**
