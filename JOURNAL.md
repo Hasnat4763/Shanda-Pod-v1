@@ -144,3 +144,13 @@ I had completely redone the case and selected 2 18650 batteries to power it and 
 ![image](https://github.com/user-attachments/assets/fd200813-b221-4cf4-8f10-7feffa920d9f)
 
 **Total time spent: 3hr**
+
+# July 1st: Adding screw holes and switch
+
+I made holes for 2 M1.6 screws and made hole for a slide switch
+
+![image](https://github.com/user-attachments/assets/7e867d0b-de04-4d6b-af36-9a0cd313cd5d)
+![image](https://github.com/user-attachments/assets/94227c0c-3821-494b-91d7-4ec55d228fef)
+
+**Total time spent: 1hr**
+
