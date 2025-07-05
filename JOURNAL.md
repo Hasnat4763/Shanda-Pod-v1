@@ -5,7 +5,7 @@ description: "It is an MP3 player!"
 created_at: "2025-06-05"
 ---
 
-#Total Time Spent: 20.5h
+# Total Time Spent: 20.5h
 
 # June 5th: Started Making the base
 
