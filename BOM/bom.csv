@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3, C4",0805,4,0.1uF,
+J1,microSD_HC_Hirose_DM3AT-SF-PEJM5,1,Micro_SD_Card_Det2,
+J2,MODULE_DM-OLED096-636,1,Conn_01x04_Pin,
+J3,PinHeader_1x04_P1.27mm_Vertical,1,Conn_01x04_Pin,
+J5,PinHeader_1x05_P1.00mm_Horizontal,1,Conn_01x05_Socket,
+"S1, S2, S3, S4, S5, S6",SW_FSM8JH,6,FSM8JH,
+U1,ESP32-WROVER-E,1,ESP32-WROVER-E,
+U3,SOIC127P600X180-16N,1,CH340C,
