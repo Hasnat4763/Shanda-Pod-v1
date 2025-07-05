@@ -25,3 +25,23 @@ PCB 3D View
 # CAD
 
 I designed it in Fusion360 which was pretty hard as it crashed idk why
+This is all the parts fitted together
+
+![image](https://github.com/user-attachments/assets/54d672a2-447d-456d-83e9-0dbab54f1c1c)
+
+![image](https://github.com/user-attachments/assets/aadc1ebf-4b1a-40b2-a2d2-d49b0a1fa7a9)
+
+![image](https://github.com/user-attachments/assets/4ba33e3b-781a-419d-9343-8330eccdd122)
+
+This is a cover which will sit on top of the battery
+
+![image](https://github.com/user-attachments/assets/d2665aa3-3a77-4949-9ecc-f9aa24d3bc90)
+
+
+# Schematic
+
+I have some parts outside of my PCB
+
+![image](https://github.com/user-attachments/assets/d00d3899-5d28-4b81-9fc1-e293170bbf6d)
+
+
