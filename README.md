@@ -61,10 +61,10 @@ I have some parts outside of my PCB
 | 18650 Lithium-ion                                                     | 2   | 348 BDT                 | [here](https://www.daraz.com.bd//products/i337388376-s1645620986.html?spm=a2o42.cart.0.0.5b8f282903B5mN&urlFlag=true&tradePath=%2CcartPriceDrop%2Ccart)                                           |
 | PCB                                                                   | 5   | US $26.33               | [here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5455ea8c31c934fb2887d1aa5c563d31bf35e860_image.png)                                          |
 | Stencil                                                               | 1   | US $16.44               | [here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5455ea8c31c934fb2887d1aa5c563d31bf35e860_image.png)                                         |                                                                                 |
+| Soldering Paste                                                       | 1   | US $2.67                | [here](https://www.aliexpress.com/item/1005006866665560.html?spm=a2g0o.productlist.main.1.6cdaixN5ixN5lS&algo_pvid=d2d48ad6-fe2d-4fcb-97f4-56ea489d9285&pdp_ext_f=%7B%22order%22%3A%223526%22%2C%22eval%22%3A%221%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A)                                         |        
 | Top Case                                                              | 1   | Printing Legion         | 
 | Bottom Case                                                           | 1   | Printing Legion         |
 | Battery Cover                                                         | 1   | Printing Legion         |
-
 
 
 
