@@ -2836,7 +2836,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 50.8) (xy 116.84 50.8)
+			(xy 102.87 50.8) (xy 140.97 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2853,16 +2853,6 @@
 			(type default)
 		)
 		(uuid "0aec0328-839f-4eea-b351-841907019105")
-	)
-	(wire
-		(pts
-			(xy 116.84 50.8) (xy 116.84 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1afa407c-328b-4dfc-b9a3-0d5f015febcc")
 	)
 	(wire
 		(pts
@@ -2943,16 +2933,6 @@
 			(type default)
 		)
 		(uuid "a8cc188f-a6d6-4227-8a9b-9299eccfa314")
-	)
-	(wire
-		(pts
-			(xy 116.84 53.34) (xy 140.97 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bbb8daf2-a7ce-4e66-a4a5-8b91c082c6bf")
 	)
 	(wire
 		(pts
@@ -3174,7 +3154,7 @@
 	)
 	(global_label "MISO"
 		(shape input)
-		(at 140.97 66.04 180)
+		(at 140.97 63.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3184,7 +3164,7 @@
 		)
 		(uuid "3b03b15f-6f04-41ca-a5af-921e5dd2fad7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.3886 66.04 0)
+			(at 133.3886 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3504,7 +3484,7 @@
 	)
 	(global_label "SCK"
 		(shape input)
-		(at 140.97 60.96 180)
+		(at 140.97 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3514,7 +3494,7 @@
 		)
 		(uuid "8df8c86a-3bb8-489a-8184-f8b15d5fc50e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 134.2353 60.96 0)
+			(at 134.2353 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3768,7 +3748,7 @@
 	)
 	(global_label "MOSI"
 		(shape input)
-		(at 140.97 55.88 180)
+		(at 140.97 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3778,7 +3758,7 @@
 		)
 		(uuid "e862d1e6-5f88-4e37-96f9-cab168348b43")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.3886 55.88 0)
+			(at 133.3886 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3922,7 +3902,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 140.97 58.42 90)
+		(at 140.97 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3931,7 +3911,7 @@
 		(fields_autoplaced yes)
 		(uuid "05b84e26-2fef-4af4-843c-fe12812489b0")
 		(property "Reference" "#PWR06"
-			(at 144.78 58.42 0)
+			(at 144.78 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3940,7 +3920,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 137.16 58.4199 90)
+			(at 137.16 55.8799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3949,7 +3929,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 58.42 0)
+			(at 140.97 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3958,7 +3938,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 58.42 0)
+			(at 140.97 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3967,7 +3947,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 140.97 58.42 0)
+			(at 140.97 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3989,7 +3969,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 140.97 63.5 270)
+		(at 140.97 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3998,7 +3978,7 @@
 		(fields_autoplaced yes)
 		(uuid "06d6ca02-a33d-4d70-bb5d-3219e10a806e")
 		(property "Reference" "#PWR03"
-			(at 134.62 63.5 0)
+			(at 134.62 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4007,7 +3987,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 137.16 63.4999 90)
+			(at 137.16 60.9599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4016,7 +3996,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 63.5 0)
+			(at 140.97 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4025,7 +4005,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 63.5 0)
+			(at 140.97 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4034,7 +4014,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 140.97 63.5 0)
+			(at 140.97 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4056,7 +4036,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 184.15 73.66 0)
+		(at 184.15 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4065,7 +4045,7 @@
 		(fields_autoplaced yes)
 		(uuid "0dc6e883-b467-4dd1-bd0f-7f3a3373f13c")
 		(property "Reference" "#PWR01"
-			(at 184.15 80.01 0)
+			(at 184.15 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4074,7 +4054,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 184.15 78.74 0)
+			(at 184.15 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4082,7 +4062,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 184.15 73.66 0)
+			(at 184.15 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4091,7 +4071,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 184.15 73.66 0)
+			(at 184.15 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4100,7 +4080,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 184.15 73.66 0)
+			(at 184.15 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6319,7 +6299,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Micro_SD_Card_Det2")
-		(at 163.83 60.96 0)
+		(at 163.83 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6328,7 +6308,7 @@
 		(fields_autoplaced yes)
 		(uuid "b9335dee-58ee-4b38-bf16-2205c86f0380")
 		(property "Reference" "J1"
-			(at 164.465 39.37 0)
+			(at 164.465 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6336,7 +6316,7 @@
 			)
 		)
 		(property "Value" "Micro_SD_Card_Det2"
-			(at 164.465 41.91 0)
+			(at 164.465 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6344,7 +6324,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5"
-			(at 215.9 43.18 0)
+			(at 215.9 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6353,7 +6333,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.hirose.com/en/product/document?clcode=&productname=&series=DM3&documenttype=Catalog&lang=en&documentid=D49662_en"
-			(at 166.37 58.42 0)
+			(at 166.37 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6362,7 +6342,7 @@
 			)
 		)
 		(property "Description" "Micro SD Card Socket with two card detection pins"
-			(at 163.83 60.96 0)
+			(at 163.83 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
