@@ -14,13 +14,16 @@ This is the Schematic
 
 This is the PCB
 
-![image](https://github.com/user-attachments/assets/6d1f8f3b-7623-45f1-9f0d-37e547d24f50)
+<img width="470" height="645" alt="image" src="https://github.com/user-attachments/assets/3620366e-a8a8-40f0-a261-e14fbf11dbe9" />
+
 
 PCB 3D View
 
-![image](https://github.com/user-attachments/assets/0cee2dc1-547c-40cf-bc6e-119007cd48e9)
+<img width="595" height="567" alt="image" src="https://github.com/user-attachments/assets/a2bb433f-2579-4d33-966e-b1c03e4d77fc" />
 
-![image](https://github.com/user-attachments/assets/67973c7a-71bb-4a7b-8afd-93fdf554f7eb)
+
+<img width="610" height="717" alt="image" src="https://github.com/user-attachments/assets/3f319d5f-0245-49e9-b67a-8d00bf88b0c3" />
+
 
 # CAD
 
