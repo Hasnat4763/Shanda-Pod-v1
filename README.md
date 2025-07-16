@@ -71,5 +71,5 @@ I have some parts outside of my PCB
 | Bottom Case                                                           | 1   | Printing Legion         |
 | Battery Cover                                                         | 1   | Printing Legion         |
 
-# Total Cost: ~ 120$ USD
+# Total Cost: ~ 115$ USD
 
